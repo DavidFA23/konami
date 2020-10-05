@@ -20,7 +20,7 @@
 						<div id="tablaDatatable"></div>
 					</div>
 					<div class="card-footer text-muted">
-						By Facultad Autodidacta
+						David Fuentes Alonso
 					</div>
 				</div>
 			</div>
